@@ -1,0 +1,72 @@
+# Sales & Marketing Performance Report
+
+## Executive Summary
+
+This report answers: **Provide a comprehensive summary of sales and marketing performance for Q1 2023**. The figures below were calculated directly from the bundled sales and marketing JSON datasets. External AI wording was unavailable, so the verified dataset summary is provided without invented claims.
+
+## Key Findings and Detailed Analysis
+
+SALES DATASET SUMMARY (calculated directly from sales_data.json)
+Applied filters: quarter=Q1 2023
+Matched records: 118 of 1000
+Total revenue: $5,823,060
+Total units sold: 8,445
+Average revenue per record: $49,347.97
+Top products by revenue: Security Suite Enterprise: 884,869; Cloud Storage Pro: 841,131; Mobile App Suite: 737,588; AI Assistant Pro: 686,093; Analytics Dashboard: 636,157
+Top regions by revenue: Asia Pacific: 1,674,084; Middle East: 1,134,597; Africa: 980,390; North America: 888,489; Europe: 792,906
+Revenue by quarter: Q1 2023: 5,823,060
+Representative sales records:
+- CRM Platform generated $93,550 in Q1 2023 with 148 units sold in Africa Enterprise segment by Lisa Anderson.
+- Analytics Dashboard generated $189,884 in Q1 2023 with 152 units sold in Middle East Enterprise segment by Lisa Anderson.
+- DevOps Toolkit generated $169,497 in Q1 2023 with 86 units sold in Africa Enterprise segment by Lisa Anderson.
+- CRM Platform generated $156,904 in Q1 2023 with 138 units sold in Asia Pacific Enterprise segment by James Wilson.
+- Mobile App Suite generated $129,554 in Q1 2023 with 51 units sold in Asia Pacific Enterprise segment by Lisa Anderson.
+
+MARKETING DATASET SUMMARY (calculated directly from marketing_data.json)
+Applied filters: quarter=Q1 2023
+Matched records: 144 of 1000
+Total budget: $4,003,876
+Total impressions: 261,142,035
+Total clicks: 8,246,789
+Total conversions: 241,294
+Click-through rate: 3.16%
+Click-to-conversion rate: 2.93%
+Cost per conversion: $16.59
+Top channels by conversions: Events: 56,805; Trade Shows: 48,073; Digital Ads: 37,454; Influencer Marketing: 31,165; Content Marketing: 14,542
+Top campaigns by conversions: Product Launch Security Suite Enterprise: 18,258; Product Update CRM Platform: 18,125; Industry Event Security Suite Enterprise: 12,284; Partnership Promo Cloud Storage Pro: 9,618; Customer Retention Mobile App Suite: 9,239
+Conversions by quarter: Q1 2023: 241,294
+Representative marketing records:
+- Product Update CRM Platform ran via Influencer Marketing in Q1 2023 with $31,159 budget, achieving 2,586,197 impressions, 110,118 clicks and 2793 conversions in Startup segment.
+- Customer Retention CRM Platform ran via Influencer Marketing in Q1 2023 with $41,654 budget, achieving 3,332,320 impressions, 71,107 clicks and 2154 conversions in Mid-Market segment.
+- Lead Generation CRM Platform ran via Content Marketing in Q1 2023 with $21,384 budget, achieving 1,218,888 impressions, 47,421 clicks and 2139 conversions in Enterprise segment.
+- Partnership Promo CRM Platform ran via Affiliate Marketing in Q1 2023 with $24,472 budget, achieving 1,443,848 impressions, 40,847 clicks and 1935 conversions in Mid-Market segment.
+- Industry Event CRM Platform ran via Affiliate Marketing in Q1 2023 with $10,568 budget, achieving 982,824 impressions, 32,284 clicks and 1271 conversions in SMB segment.
+
+SEMANTIC RETRIEVAL RESULTS
+Retrieved relevant information:
+
+1. [MARKETING] (Relevance: 0.23)
+   Product Launch CRM Platform ran via Influencer Marketing in Q3 2023 with $43,154 budget, achieving 1,337,774 impressions, 14,699 clicks and 561 conversions in Mid-Market segment.
+   Campaign: Product Launch CRM Platform | Channel: Influencer Marketing | Budget: $43,154 | Conversions: 561
+
+2. [MARKETING] (Relevance: 0.23)
+   Partnership Promo Analytics Dashboard ran via Content Marketing in Q3 2023 with $18,274 budget, achieving 566,494 impressions, 14,966 clicks and 481 conversions in SMB segment.
+   Campaign: Partnership Promo Analytics Dashboard | Channel: Content Marketing | Budget: $18,274 | Conversions: 481
+
+3. [MARKETING] (Relevance: 0.23)
+   Product Launch CRM Platform ran via Content Marketing in Q3 2023 with $23,924 budget, achieving 741,644 impressions, 33,720 clicks and 1670 conversions in Enterprise segment.
+   Campaign: Product Launch CRM Platform | Channel: Content Marketing | Budget: $23,924 | Conversions: 1670
+
+4. [MARKETING] (Relevance: 0.22)
+   Market Expansion CRM Platform ran via Content Marketing in Q3 2023 with $23,601 budget, achieving 1,958,883 impressions, 89,459 clicks and 1002 conversions in Startup segment.
+   Campaign: Market Expansion CRM Platform | Channel: Content Marketing | Budget: $23,601 | Conversions: 1002
+
+5. [MARKETING] (Relevance: 0.22)
+   Seasonal Campaign CRM Platform ran via Content Marketing in Q3 2023 with $17,260 budget, achieving 1,346,280 impressions, 41,225 clicks and 1980 conversions in Startup segment.
+   Campaign: Seasonal Campaign CRM Platform | Channel: Content Marketing | Budget: $17,260 | Conversions: 1980
+
+## Recommendations
+
+1. Prioritize the products, regions, campaigns, and channels with the strongest verified totals above.
+2. Investigate lower-performing segments with the same filters before reallocating budget.
+3. Compare like-for-like quarters and track revenue, conversion rate, and cost per conversion over time.

@@ -1,0 +1,14 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+SQLAlchemy==2.0.52
+psycopg[binary]==3.3.5
+pydantic==2.13.5
+email-validator==2.3.0
+python-multipart==0.0.32
+PyJWT==2.14.0
+argon2-cffi==25.1.0
+requests==2.34.2
+autogen-agentchat==0.7.5
+autogen-ext[openai]==0.7.5
+openai==3.13.0
+socksio==1.0.0

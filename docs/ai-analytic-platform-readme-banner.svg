@@ -1,0 +1,149 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">AI Analytic Platform</title>
+  <desc id="description">Futuristic AutoGen business intelligence command center banner</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="20" x2="1510" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050811"/>
+      <stop offset="0.55" stop-color="#091426"/>
+      <stop offset="1" stop-color="#050811"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="112" y1="96" x2="835" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="0.48" stop-color="#77A9FF"/>
+      <stop offset="1" stop-color="#4D8DFF"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="1045" y1="94" x2="1457" y2="461" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77A9FF"/>
+      <stop offset="0.52" stop-color="#29D3C2"/>
+      <stop offset="1" stop-color="#F6C945"/>
+    </linearGradient>
+    <radialGradient id="sphere" cx="0" cy="0" r="1" gradientTransform="translate(1260 274) rotate(90) scale(171)">
+      <stop stop-color="#183A72" stop-opacity="0.82"/>
+      <stop offset="0.55" stop-color="#0B1E3D" stop-opacity="0.64"/>
+      <stop offset="1" stop-color="#07101F" stop-opacity="0.18"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(1260 269) rotate(90) scale(254)">
+      <stop stop-color="#4D8DFF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#4D8DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientTransform="translate(670 542) rotate(90) scale(190 770)">
+      <stop stop-color="#F6C945" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#F6C945" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" stroke="#223A5D" stroke-opacity="0.17"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1600" height="560" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="560" fill="url(#background)"/>
+    <rect width="1600" height="560" fill="url(#grid)"/>
+    <ellipse cx="1260" cy="269" rx="280" ry="264" fill="url(#blueGlow)"/>
+    <ellipse cx="670" cy="542" rx="790" ry="205" fill="url(#goldGlow)"/>
+    <path d="M0 454C246 395 362 526 612 457C855 390 966 407 1190 476C1359 528 1478 503 1600 445V560H0V454Z" fill="#0B1526" fill-opacity="0.66"/>
+    <path d="M0 477C222 420 388 526 612 469C872 403 1042 427 1224 488C1383 541 1490 504 1600 461" stroke="#F6C945" stroke-opacity="0.3" stroke-width="2"/>
+
+    <g transform="translate(112 78)">
+      <rect width="58" height="58" rx="16" fill="#101D31" stroke="#29466F"/>
+      <path d="M16 38L26 18H34L26 34H38L31 47" stroke="#F6C945" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="45" cy="14" r="3.5" fill="#4D8DFF" filter="url(#glow)"/>
+    </g>
+
+    <g font-family="Inter, Avenir Next, Segoe UI, Arial, sans-serif">
+      <text x="190" y="101" fill="#F4F7FD" font-size="21" font-weight="750" letter-spacing="0.3">AI ANALYTIC PLATFORM</text>
+      <text x="190" y="127" fill="#7589A8" font-size="12" font-weight="700" letter-spacing="2.5">DECISION INTELLIGENCE</text>
+
+      <rect x="112" y="175" width="326" height="34" rx="17" fill="#10213A" stroke="#29466F"/>
+      <circle cx="134" cy="192" r="5" fill="#37D39A" filter="url(#glow)"/>
+      <text x="150" y="197" fill="#AFC4E5" font-size="12" font-weight="750" letter-spacing="2.1">AUTOGEN AGENTIC CORE</text>
+
+      <text x="108" y="293" fill="url(#brand)" font-size="83" font-weight="820" letter-spacing="-3.4">Business data.</text>
+      <text x="108" y="372" fill="#F6C945" font-size="83" font-weight="820" letter-spacing="-3.4">Decision ready.</text>
+      <text x="114" y="419" fill="#A5B4CB" font-size="21" font-weight="450">Verified analytics and multi-agent intelligence in one command center.</text>
+
+      <g transform="translate(112 460)">
+        <rect width="132" height="38" rx="11" fill="#0E1A2D" stroke="#263B5C"/>
+        <text x="66" y="25" text-anchor="middle" fill="#BBD1F4" font-size="12" font-weight="700">UPLOAD DATA</text>
+        <path d="M145 19H169" stroke="#39567E" stroke-width="2"/>
+        <path d="M163 13L169 19L163 25" stroke="#39567E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="182" width="126" height="38" rx="11" fill="#0E1A2D" stroke="#263B5C"/>
+        <text x="245" y="25" text-anchor="middle" fill="#BBD1F4" font-size="12" font-weight="700">MAP SIGNALS</text>
+        <path d="M321 19H345" stroke="#39567E" stroke-width="2"/>
+        <path d="M339 13L345 19L339 25" stroke="#39567E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="358" width="132" height="38" rx="11" fill="#182544" stroke="#4D8DFF"/>
+        <text x="424" y="25" text-anchor="middle" fill="#E5EEFF" font-size="12" font-weight="700">DEPLOY AGENTS</text>
+        <path d="M503 19H527" stroke="#6D5E2B" stroke-width="2"/>
+        <path d="M521 13L527 19L521 25" stroke="#6D5E2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="540" width="140" height="38" rx="11" fill="#2B2512" stroke="#8D7423"/>
+        <text x="610" y="25" text-anchor="middle" fill="#FFE58A" font-size="12" font-weight="700">ACT ON INSIGHT</text>
+      </g>
+    </g>
+
+    <g filter="url(#softShadow)">
+      <circle cx="1260" cy="271" r="174" fill="url(#sphere)" stroke="#4777BD" stroke-opacity="0.72" stroke-width="2"/>
+      <ellipse cx="1260" cy="271" rx="174" ry="73" stroke="#5C9BFF" stroke-opacity="0.58" stroke-width="2"/>
+      <ellipse cx="1260" cy="271" rx="77" ry="174" stroke="#5C9BFF" stroke-opacity="0.45" stroke-width="2"/>
+      <ellipse cx="1260" cy="271" rx="136" ry="174" stroke="#29D3C2" stroke-opacity="0.22"/>
+      <path d="M1101 207C1179 243 1254 228 1313 167C1366 113 1423 176 1423 176" stroke="url(#orbit)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M1105 338C1177 300 1251 317 1320 374C1371 416 1421 365 1428 352" stroke="url(#orbit)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M1168 126C1207 210 1290 282 1378 389" stroke="#77A9FF" stroke-opacity="0.5" stroke-width="1.5"/>
+      <path d="M1384 149C1315 214 1224 298 1144 382" stroke="#29D3C2" stroke-opacity="0.42" stroke-width="1.5"/>
+
+      <g fill="#F6C945" filter="url(#glow)">
+        <circle cx="1155" cy="191" r="5"/>
+        <circle cx="1341" cy="173" r="4"/>
+        <circle cx="1392" cy="330" r="5"/>
+        <circle cx="1192" cy="367" r="4"/>
+      </g>
+      <g fill="#77A9FF" filter="url(#glow)">
+        <circle cx="1260" cy="98" r="5"/>
+        <circle cx="1088" cy="271" r="4"/>
+        <circle cx="1260" cy="444" r="5"/>
+        <circle cx="1432" cy="271" r="4"/>
+        <circle cx="1289" cy="248" r="7"/>
+      </g>
+    </g>
+
+    <g font-family="Inter, Avenir Next, Segoe UI, Arial, sans-serif" filter="url(#softShadow)">
+      <g transform="translate(1000 91)">
+        <rect width="166" height="66" rx="14" fill="#0B1525" fill-opacity="0.94" stroke="#29466F"/>
+        <text x="18" y="25" fill="#7186A5" font-size="10" font-weight="700" letter-spacing="1.5">ANALYTICS ENGINE</text>
+        <text x="18" y="50" fill="#F4F7FD" font-size="21" font-weight="750">VERIFIED</text>
+        <path d="M117 45L130 32L140 39L151 23" stroke="#37D39A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g transform="translate(1361 398)">
+        <rect width="171" height="70" rx="14" fill="#0B1525" fill-opacity="0.94" stroke="#514A27"/>
+        <circle cx="23" cy="23" r="6" fill="#F6C945"/>
+        <text x="40" y="27" fill="#FFE58A" font-size="10" font-weight="700" letter-spacing="1.3">CRITIC REVIEW</text>
+        <text x="19" y="53" fill="#F4F7FD" font-size="15" font-weight="750">EVIDENCE LOCKED</text>
+      </g>
+      <g transform="translate(974 398)">
+        <rect width="181" height="70" rx="14" fill="#0B1525" fill-opacity="0.94" stroke="#29466F"/>
+        <text x="18" y="27" fill="#7186A5" font-size="10" font-weight="700" letter-spacing="1.4">AGENT PIPELINE</text>
+        <g transform="translate(19 43)">
+          <circle cx="6" cy="6" r="6" fill="#4D8DFF"/>
+          <path d="M18 6H48" stroke="#29466F" stroke-width="2"/>
+          <circle cx="60" cy="6" r="6" fill="#29D3C2"/>
+          <path d="M72 6H102" stroke="#514A27" stroke-width="2"/>
+          <circle cx="114" cy="6" r="6" fill="#F6C945"/>
+          <path d="M126 6H143" stroke="#355747" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1598" height="558" rx="31" stroke="#273B5A" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+# Sales & Marketing Performance Report
+
+## Executive Summary
+
+This report answers: **Analyze marketing campaign performance for Content Marketing channel in Q4 2023**. The figures below were calculated directly from the bundled sales and marketing JSON datasets. External AI wording was unavailable, so the verified dataset summary is provided without invented claims.
+
+## Key Findings and Detailed Analysis
+
+MARKETING DATASET SUMMARY (calculated directly from marketing_data.json)
+Applied filters: channel=Content Marketing; quarter=Q4 2023
+Matched records: 11 of 1000
+Total budget: $164,656
+Total impressions: 10,791,915
+Total clicks: 298,590
+Total conversions: 7,210
+Click-through rate: 2.77%
+Click-to-conversion rate: 2.41%
+Cost per conversion: $22.84
+Top channels by conversions: Content Marketing: 7,210
+Top campaigns by conversions: Customer Retention CRM Platform: 1,649; Product Launch CRM Platform: 1,478; Industry Event Cloud Storage Pro: 755; Customer Retention Security Suite Enterprise: 683; Product Update Security Suite Enterprise: 655
+Conversions by quarter: Q4 2023: 7,210
+Representative marketing records:
+- Product Launch CRM Platform ran via Content Marketing in Q4 2023 with $19,501 budget, achieving 955,549 impressions, 29,802 clicks and 1478 conversions in SMB segment.
+- Customer Retention CRM Platform ran via Content Marketing in Q4 2023 with $22,409 budget, achieving 2,016,810 impressions, 82,602 clicks and 1303 conversions in Mid-Market segment.
+- Seasonal Campaign Mobile App Suite ran via Content Marketing in Q4 2023 with $4,512 budget, achieving 442,176 impressions, 21,638 clicks and 559 conversions in SMB segment.
+- Customer Retention CRM Platform ran via Content Marketing in Q4 2023 with $17,756 budget, achieving 1,136,384 impressions, 30,991 clicks and 346 conversions in SMB segment.
+- Brand Awareness CRM Platform ran via Content Marketing in Q4 2023 with $5,057 budget, achieving 156,767 impressions, 4,914 clicks and 74 conversions in Enterprise segment.
+- Industry Event Cloud Storage Pro ran via Content Marketing in Q4 2023 with $22,590 budget, achieving 1,152,090 impressions, 45,877 clicks and 755 conversions in Mid-Market segment.
+- Customer Retention Security Suite Enterprise ran via Content Marketing in Q4 2023 with $13,103 budget, achieving 746,871 impressions, 14,370 clicks and 683 conversions in Startup segment.
+- Product Update Security Suite Enterprise ran via Content Marketing in Q4 2023 with $22,471 budget, achieving 1,280,847 impressions, 20,191 clicks and 655 conversions in Mid-Market segment.
+
+SEMANTIC RETRIEVAL RESULTS
+Retrieved relevant information:
+
+1. [MARKETING] (Relevance: 0.32)
+   Seasonal Campaign Mobile App Suite ran via Content Marketing in Q4 2023 with $4,512 budget, achieving 442,176 impressions, 21,638 clicks and 559 conversions in SMB segment.
+   Campaign: Seasonal Campaign Mobile App Suite | Channel: Content Marketing | Budget: $4,512 | Conversions: 559
+
+2. [MARKETING] (Relevance: 0.31)
+   Seasonal Campaign Analytics Dashboard ran via Content Marketing in Q4 2024 with $6,028 budget, achieving 313,456 impressions, 12,499 clicks and 411 conversions in Mid-Market segment.
+   Campaign: Seasonal Campaign Analytics Dashboard | Channel: Content Marketing | Budget: $6,028 | Conversions: 411
+
+3. [MARKETING] (Relevance: 0.27)
+   Seasonal Campaign CRM Platform ran via Content Marketing in Q2 2024 with $4,192 budget, achieving 406,624 impressions, 9,368 clicks and 109 conversions in Enterprise segment.
+   Campaign: Seasonal Campaign CRM Platform | Channel: Content Marketing | Budget: $4,192 | Conversions: 109
+
+4. [MARKETING] (Relevance: 0.27)
+   Seasonal Campaign CRM Platform ran via Content Marketing in Q4 2024 with $17,370 budget, achieving 746,910 impressions, 33,485 clicks and 1139 conversions in SMB segment.
+   Campaign: Seasonal Campaign CRM Platform | Channel: Content Marketing | Budget: $17,370 | Conversions: 1139
+
+5. [MARKETING] (Relevance: 0.26)
+   Seasonal Campaign CRM Platform ran via Content Marketing in Q3 2023 with $17,260 budget, achieving 1,346,280 impressions, 41,225 clicks and 1980 conversions in Startup segment.
+   Campaign: Seasonal Campaign CRM Platform | Channel: Content Marketing | Budget: $17,260 | Conversions: 1980
+
+## Recommendations
+
+1. Prioritize the products, regions, campaigns, and channels with the strongest verified totals above.
+2. Investigate lower-performing segments with the same filters before reallocating budget.
+3. Compare like-for-like quarters and track revenue, conversion rate, and cost per conversion over time.

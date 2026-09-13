@@ -1,0 +1,15 @@
+# Optional heavy dependencies for the original Streamlit, ChromaDB, and delivery scripts.
+# Microsoft AutoGen is already installed by the production requirements.
+-r requirements.txt
+streamlit
+chromadb
+sentence-transformers
+pandas
+schedule
+pytz
+matplotlib
+plotly
+kaleido
+telethon
+Pillow
+numpy
