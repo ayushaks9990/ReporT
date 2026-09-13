@@ -80,24 +80,6 @@ flowchart LR
 | **Verified fallback** | Complete locally generated reports when AutoGen or GROQ is unavailable |
 | **Private workspaces** | Account-isolated datasets, reports, favorites, and exports |
 | **Production delivery** | FastAPI, React, PostgreSQL, Docker, Render Blueprint, health checks, and CI |
-
-### A visual system built for intelligence
-
-<table>
-  <tr>
-    <td width="58%">
-      <img src="frontend/public/images/ai-analytic-platform-hero-command-center.png" alt="AI Analytic Platform futuristic command center" />
-    </td>
-    <td width="42%">
-      <img src="frontend/public/images/ai-analytic-platform-insight-neural-sphere.png" alt="AI Analytic Platform neural intelligence sphere" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><strong>COMMAND CENTER</strong> · Midnight glass, cobalt data, gold signals</sub></td>
-    <td align="center"><sub><strong>INTELLIGENCE CORE</strong> · A visual language for connected evidence</sub></td>
-  </tr>
-</table>
-
 ## 🧠 The agentic core
 
 AI Analytic Platform includes a real integration with the current **AutoGen AgentChat API** using:
