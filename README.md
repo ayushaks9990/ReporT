@@ -39,9 +39,6 @@
   <code>UPLOAD</code> &nbsp;→&nbsp; <code>MAP</code> &nbsp;→&nbsp; <code>ANALYZE</code> &nbsp;→&nbsp; <code>DEPLOY AGENTS</code> &nbsp;→&nbsp; <code>ACT</code>
 </p>
 
-> [!IMPORTANT]
-> **This is a genuine production multi-agent implementation—not an “AI-powered” label.** The deployed FastAPI service uses Microsoft AutoGen's current AgentChat API to orchestrate an Analyst, Report Writer, and Independent Critic over the exact calculated report snapshot, including a critic-driven revision loop.
-
 ## ✦ Why AI Analytic Platform exists
 
 Business reporting is usually fragmented across spreadsheets, dashboard tools, prompt windows, and manually formatted documents. AI Analytic Platform compresses that workflow into one secure command center.
